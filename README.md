@@ -26,8 +26,7 @@ Waterfal is rigid for fixed projects in the banking systems the steps and phases
 Agile is flexible for mobile applications and startups,
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-A sosftware developoer nuilds and maintains codes, software engineers ensure functionality and efficiency of codes.
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team. A sosftware developoer nuilds and maintains codes, software engineers ensure functionality and efficiency of codes.
 a Quality Assuarance engineer tests software for bugs, level of security and they ensure quality before a project is launched.
 
 
